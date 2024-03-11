@@ -1,5 +1,4 @@
-### Hi there 👋, 
-I'm Nathan
+### Hello👋, I'm Nathan
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
