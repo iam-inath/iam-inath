@@ -1,10 +1,10 @@
 Hi, I'm Nathan Katshi, a Front-End Developer 👨🏽‍💻
 
-🔭 I’m currently working on front-end development, using HTML, CSS, TypeScript, SCSS, React.js, Vue.js 
-🌱 I’m currently learning back-end languages and frameworks like PHP, Python, Node.js as I intend to go Full-Stack.
-👯 I’m looking to collaborate on front-end projects mainly.
-📫 Reach me: nathan@katshi.dev
-⚡ Fun fact: Sky is Blue
+- 🔭 I’m currently working on front-end development, using HTML, CSS, TypeScript, SCSS, React.js, Vue.js 
+- 🌱 I’m currently learning back-end languages and frameworks like PHP, Python, Node.js as I intend to go Full-Stack.
+- 👯 I’m looking to collaborate on front-end projects mainly.
+- 📫 Reach me: nathan@katshi.dev
+- ⚡ Fun fact: Sky is Blue
 
 
 <!--
