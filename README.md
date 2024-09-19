@@ -1,6 +1,6 @@
 ## About Me
 
-In a nutshell, I’m passionate about leveraging technology to create intuitive and engaging user experiences. With a diverse background in computer maintenance, enterprise networking, systems engineering, and front-end development, I offer a unique blend of skills that include strategic thinking, effective communication, and technical expertise.
+I’m passionate about leveraging technology to create intuitive and engaging user experiences. With a diverse background in computer maintenance, enterprise networking, systems engineering, and front-end development, I offer a unique blend of skills that include strategic thinking, effective communication, and technical expertise.
 
 👨‍💻 **Current Role**
 
