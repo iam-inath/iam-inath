@@ -1,8 +1,8 @@
 ## Nathan Katshi
 
-#### Front End Engineer - Network Automation - Technical Writer - Cisco DevNet - NetRiders Top Talent 
+#### Front End Engineer - Network Automation Engineer - Technical Writer - Cisco DevNet - NetRiders Top Talent 
 
-<img src="https://i.ibb.co/r0DWzZC/githubanner.jpg" alt="githubanner" border="0">
+<img src="https://i.ibb.co/pbkx902/githubanner02.jpg" alt="Nathan Katshi working from home" border="0">
 
 Nathan is a dedicated Front-End Engineer and Network Automation Engineer, passionate about leveraging technologies to create intuitive and engaging user experiences. With a strong network administration and systems engineering foundation, he excels in combining strategic thinking, effective communication, and technical expertise to deliver robust solutions.
 
