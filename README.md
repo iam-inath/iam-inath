@@ -2,8 +2,7 @@
 
 #### Front End Engineer - Network Automation - Technical Writer - Cisco DevNet - NetRiders Top Talent 
 
-<img src="(https://ibb.co/DW0qv7x)" width="200" alt="new" /> 
-![new](https://i.ibb.co/DW0qv7x)
+<img src="(https://ibb.co/DW0qv7x)" height="450px" alt="new" /> 
 
 
 Nathan is a dedicated Front-End Engineer and Network Automation Engineer, passionate about leveraging technologies to create intuitive and engaging user experiences. With a strong network administration and systems engineering foundation, he excels in combining strategic thinking, effective communication, and technical expertise to deliver robust solutions.
