@@ -15,7 +15,9 @@ With a commitment to continuous learning and innovation, Nathan remains at the f
 
 <h3>Follow Nathan On</h3>
 <p><a href="https://github.com/iam-inath" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/iam-inath/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://x.com/katshidev" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white" />
- <a href="https://hackernoon/@katshidev" target="_blank"><img alt="Hackernoon" src="https://img.shields.io/badge/hackernoon-00BB00.svg?&style=for-the-badge&logo=hackernoon&logoColor=white" />
+ <a href="https://hackernoon/@katshidev" target="_blank"><img alt="Hackernoon" src="https://img.shields.io/badge/hackernoon-00BB00.svg?&style=for-the-badge&logo=hackernoon&logoColor=white" />  <a href="https://dev.to/katshidev" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /> <img alt="TechTarget" src="https://img.shields.io/badge/TechTarget-005177.svg?&style=for-the-badge&logo=TechTarget&logoColor=white" />
+
+
 
 </p>
 <h3>Tech & Tools</h3>
