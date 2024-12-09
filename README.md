@@ -4,9 +4,9 @@
 
 <img src="https://i.ibb.co/BwdP2wp/githubanner-Copy.jpg" alt="Nathan Katshi working from home" border="0">
 
-Nathan is a dedicated Front-End Engineer and Network Automation Engineer, passionate about leveraging technologies to create intuitive and engaging user experiences. With a strong network administration and systems engineering foundation, he excels in combining strategic thinking, effective communication, and technical expertise to deliver robust solutions.
+Nathan is a dedicated Front-End and Network Automation Engineer who is passionate about leveraging technologies to create intuitive and engaging user experiences. With a strong foundation in network administration and systems engineering, he excels at combining strategic thinking, effective communication, and technical expertise to deliver robust solutions.
 
-As a Front-End Engineer, Nathan builds visually appealing and technically robust user interfaces that enhance user experiences. He also specializes in network automation and programmability as a Cisco DevNet Enthusiast, regularly sharing his insights through technical writing on both frontend development and network automation.
+As a Front-End Engineer, Nathan builds visually appealing and technically robust user interfaces that enhance user experiences. He also specializes in network automation and programmability as a Cisco DevNet Enthusiast, regularly sharing his insights through technical writing on front-end development and network automation.
 
 Nathan began his tech journey in 2013, gaining invaluable skills in computer maintenance, network design, and systems engineering. In 2016, he was recognized as a Cisco NetRiders Top Talent in CCNA Routing and Switching. His transition into front-end development was driven by a desire to create impactful solutions and enhance user experiences.
 
@@ -14,7 +14,7 @@ With a commitment to continuous learning and innovation, Nathan remains at the f
 
 <h3>Follow Nathan On</h3>
 <p><a href="https://github.com/iam-inath" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/iam-inath/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://x.com/katshidev" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white" />
- <a href="https://hackernoon/@katshidev" target="_blank"><img alt="Hackernoon" src="https://img.shields.io/badge/hackernoon-00BB00.svg?&style=for-the-badge&logo=hackernoon&logoColor=white" />  <a href="https://dev.to/katshidev" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /> <img alt="TechTarget" src="https://img.shields.io/badge/TechTarget-005177.svg?&style=for-the-badge&logo=TechTarget&logoColor=white" /></a></a></a></a></p>
+ <a href="https://hackernoon/u/katshidev" target="_blank"><img alt="Hackernoon" src="https://img.shields.io/badge/hackernoon-00BB00.svg?&style=for-the-badge&logo=hackernoon&logoColor=white" />  <a href="https://dev.to/katshidev" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /> <!-- <img alt="TechTarget" src="https://img.shields.io/badge/TechTarget-005177.svg?&style=for-the-badge&logo=TechTarget&logoColor=white" /></a></a></a></a></p> -->
 
 <h3>Tech & Tools</h3>
 <p>
